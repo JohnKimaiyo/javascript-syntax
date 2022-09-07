@@ -46,3 +46,13 @@ let v = 40;
 let w = 40;
 let x = v +w;
 console.log('answer:' + x);
+
+// example 9
+alert("node developer");
+alert("react developer");
+alert("python developer");
+alert("django developer");
+alert("angular developer");
+alert("vue developer");
+alert("express developer");
+alert("adonis developer");
